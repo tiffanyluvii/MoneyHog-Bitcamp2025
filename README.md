@@ -1,6 +1,6 @@
 # Money Hog
 
-##Inspiration
+## Inspiration
 With technology today, we can track all kinds of miniscule things like sleep, grades, and steps automatically. Unfortunately, one's spending habits aren't as easily trackable. Being college students, we recognize the need to budget efficiently, as it can be a daunting task. With this realization, we sought to make an easy-to-use app to help make budgeting accessible to everyone!
 
 ## What it does
